@@ -1,7 +1,5 @@
 # Bootcamp de Datos Perficent
 
----
-
 ## Descripción
 Este repositorio contiene el cuaderno del Bootcamp de Datos (Perficent). El notebook realiza un análisis exploratorio y operativo sobre ventas y materias primas para identificar:
 
@@ -10,8 +8,6 @@ Este repositorio contiene el cuaderno del Bootcamp de Datos (Perficent). El note
 - El consumo de materia prima.  
 
 Incluye limpieza de datos, visualizaciones y conclusiones.
-
----
 
 ## Objetivos
 - Identificar los productos más importantes según rentabilidad.  
